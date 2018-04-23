@@ -1,0 +1,4 @@
+# exclude all except /mods and /config
+/*
+!/mods
+!/config
