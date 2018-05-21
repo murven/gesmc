@@ -1,0 +1,1 @@
+recipes.remove(<actuallyadditions:block_miner>);
